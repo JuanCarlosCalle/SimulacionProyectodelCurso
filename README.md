@@ -10,6 +10,8 @@ Modelos y Simulacion II: Proyecto del Curso
 
 # Retinopatía diabética: detección de ceguera
 
+# Título del Proyecto
+
 ### APTOS 2019 Ceguera
 
 La retinopatía diabética es una enfermedad que afecta la retina del ojo. Millones en todo el mundo sufren de esta enfermedad.
@@ -25,13 +27,7 @@ En Kaggle (https://www.kaggle.com/c/aptos2019-blindness-detection/data  tendremo
 Con este conjunto de datos, podremos entrenar un modelo de aprendizaje automático para lograr un alto nivel de precisión al predecir la aparición de la enfermedad en pacientes.
 
 
-## Resultados
-
-Entrenamos nuestro modelo en un conjunto de datos combinado de aproximadamente 40,000 imágenes. 
-
-
-
-## Contenido:
+## Contenido: 📋
 
 El siguiente cuaderno se ha organizado de la siguiente manera:
 
@@ -53,7 +49,7 @@ Aproximadamente, el orden de las operaciones para este proyecto se detalla a con
 8. Extraccion de caracterısticas por el metodo PCA
 9. Resultados
 
-### Experimentos
+### Experimentos 🔧
 
 
 *   Naıve Bayes
@@ -70,3 +66,7 @@ Aproximadamente, el orden de las operaciones para este proyecto se detalla a con
 -   Kapa Cohen
 
 # Para abrir el codigo abrir el archivo trabajo_principal.ipyn
+
+## Autores ✒️
+* **Juan Carlos Calle** 
+* **Andrés Quintero Bedoya** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
