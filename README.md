@@ -69,4 +69,4 @@ Aproximadamente, el orden de las operaciones para este proyecto se detalla a con
 
 ## Autores ✒️
 * **Juan Carlos Calle** 
-* **Andrés Quintero Bedoya** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Andrés Quintero Bedoya** 
